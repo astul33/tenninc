@@ -1,0 +1,8 @@
+{
+  "name": "Remix Anime Tennis 3D | أبطال التنس الخارق",
+  "description": "لعبة تنس ثلاثية الأبعاد بأسلوب الأنمي الياباني، ملاعب ملونة ملحمية، شخصيات ذات قدرات خارقة، وفيزياء كرة واقعية مع مراحل متصاعدة الصعوبة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
